@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# run_detections.py
+# cr_runner.py
 #
 # C. Cloutier -  2022-11-25
 # Run all or selected Security Detection searches in Splunk ES and save/report positive hits.
